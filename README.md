@@ -21,51 +21,13 @@
 
 ## 🤝 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/diegocruz-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://diegocruz.com.au" target="_blank">
-    <img src="https://img.shields.io/badge/Website-diegocruz.com.au-C4724A?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/diegocruz-/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>&nbsp;<a href="https://diegocruz.com.au" target="_blank"><img src="https://img.shields.io/badge/Website-diegocruz.com.au-C4724A?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a></p>
 
 ---
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://azure.microsoft.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/" target="_blank">
-    <img src="https://img.shields.io/badge/Bicep-IaC-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Bicep" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-</p>
+<p align="left"><a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>&nbsp;<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/></a>&nbsp;<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>&nbsp;<a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/" target="_blank"><img src="https://img.shields.io/badge/Bicep-IaC-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Bicep" height="40"/></a>&nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;<a href="https://github.com/features/actions" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/></a>&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>&nbsp;<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></p>
 
 ---
 
@@ -78,7 +40,7 @@
 | ![MS-100](https://img.shields.io/badge/MS--100-M365%20Identity-0078D4?style=flat&logo=microsoft&logoColor=white) | Microsoft 365 Identity & Services | ✅ Completed |
 | ![MS-101](https://img.shields.io/badge/MS--101-M365%20Security-0078D4?style=flat&logo=microsoft&logoColor=white) | Microsoft 365 Security Administration | ✅ Completed |
 | ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions%20Architect-orange?style=flat&logo=microsoft-azure&logoColor=white) | Azure Solutions Architect Expert | 🔄 In Progress |
-| ![GH-900](https://img.shields.io/badge/GH--900-GitHub%20Foundations-181717?style=flat&logo=github&logoColor=white) | GitHub Foundations | 🔄 In Progress |
+| ![GH-900](https://img.shields.io/badge/GH--900-GitHub%20Foundations-181717?style=flat&logo=github&logoColor=white) | GitHub Foundations | ✅ Completed |
 
 ---
 
@@ -91,11 +53,6 @@ My personal website — Cloud Engineering portfolio, blog posts on Azure archite
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegocruz-0&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocruz-0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=diegocruz-0&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Diego's GitHub Stats" width="48%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocruz-0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="40%"/></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=diegocruz-0&theme=dark&hide_border=true" alt="GitHub Streak" width="55%"/>
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=diegocruz-0&theme=dark&hide_border=true" alt="GitHub Streak" width="55%"/></p>
