@@ -27,7 +27,12 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left"><a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>&nbsp;<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/></a>&nbsp;<a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>&nbsp;<a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/" target="_blank"><img src="https://img.shields.io/badge/Bicep-IaC-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Bicep" height="40"/></a>&nbsp;<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;<a href="https://github.com/features/actions" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40" height="40"/></a>&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>&nbsp;<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>&nbsp;<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure,powershell,terraform,py,githubactions,linux,docker,kubernetes,git&perrow=9" /></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bicep-IaC-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Bicep" height="28"/>
+</p>
 
 ---
 
