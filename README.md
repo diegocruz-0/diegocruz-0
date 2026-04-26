@@ -44,8 +44,9 @@
 | ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | Microsoft Azure Fundamentals | ✅ Completed |
 | ![MS-100](https://img.shields.io/badge/MS--100-M365%20Identity-0078D4?style=flat&logo=microsoft&logoColor=white) | Microsoft 365 Identity & Services | ✅ Completed |
 | ![MS-101](https://img.shields.io/badge/MS--101-M365%20Security-0078D4?style=flat&logo=microsoft&logoColor=white) | Microsoft 365 Security Administration | ✅ Completed |
-| ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions%20Architect-orange?style=flat&logo=microsoft-azure&logoColor=white) | Azure Solutions Architect Expert | 🔄 In Progress |
 | ![GH-900](https://img.shields.io/badge/GH--900-GitHub%20Foundations-181717?style=flat&logo=github&logoColor=white) | GitHub Foundations | ✅ Completed |
+| ![AZ-700](https://img.shields.io/badge/AZ--700-Azure%20Network%20Engineer-orange?style=flat&logo=microsoft-azure&logoColor=white) | Azure Network Engineer Associate | 🔄 In Progress |
+| ![AZ-305](https://img.shields.io/badge/AZ--305-Solutions%20Architect-orange?style=flat&logo=microsoft-azure&logoColor=white) | Azure Solutions Architect Expert | 🔄 In Progress |
 
 ---
 
